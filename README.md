@@ -1,3 +1,8 @@
-# Spirit Vault: public pages
+# Spirit Vault: Ghost Detector
 
-The privacy policy and terms of use for the Spirit Vault: Ghost Detector Android app, published at https://ray-aurelius.github.io/spirit-vault/
+Public documents for the Spirit Vault Android app.
+
+- [Privacy policy](PRIVACY.md)
+- [Terms of use](TERMS.md)
+
+Spirit Vault has no internet access, no accounts, no ads and no tracking. Questions: spiritvaultsupport@gmail.com
